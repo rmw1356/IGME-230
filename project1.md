@@ -5,17 +5,12 @@
  - [Gameplay](#gameplay)
  - [Controls](#controls)
  - [Developer](#developer)
-
-<br><br>
-
+ 
 # Sunrise
 
 <img src="https://github.com/rmw1356/IGME-230/blob/master/sunriseconcept.png" alt="Main">
 
 #### Concept Image
-
-<br><br>
-</header>
 
 <section class="description">
 
