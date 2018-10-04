@@ -35,6 +35,6 @@
 
 # Developer:
 
-####  My name is Ryan Wheeler. I am a second year in Game Design and Development at RIT. I have a strong interest in the creation of games, particularly the in unique concepts and ideas used in their interactive medium.
+###  My name is Ryan Wheeler. I am a second year in Game Design and Development at RIT. I have a strong interest in the creation of games, particularly the in unique concepts and ideas used in their interactive medium.
 
 </section>
