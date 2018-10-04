@@ -9,7 +9,6 @@
 # Sunrise
 
 <img src="https://github.com/rmw1356/IGME-230/blob/master/sunriseconcept.png" alt="Main">
-
 #### Concept Image
 
 <section class="description">
@@ -30,8 +29,6 @@
 ### The main character, as well as the floor, objects, and background, will all be pixel art. The music will be a consistent, high energy chiptune theme.
 
 </section>
-
-<br><br>
 
 # Developer:
 
