@@ -21,6 +21,8 @@
 
 ### *Sunrise* is an **infinite runner**, where the player moves at a consistent speed and must avoid obstacles as they run by them. The only goal is to survive as long as possible! The player can jump, as well as double jump while in the air, and attack in a certain area around them to eliminate any enemies.
 
+#Sunrise is only available on PC.
+
 # Controls
 
 ### The player can only perform 2 actions. They can jump using the left mouse button, and attack using the right mouse button.
