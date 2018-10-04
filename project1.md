@@ -9,7 +9,9 @@
 <br><br>
 
 # Sunrise
-<img src="https://github.com/rmw1356/IGME-230/sunriseconcept.png" alt="Main" >
+
+<img src="https://github.com/rmw1356/IGME-230/blob/master/sunriseconcept.png" alt="Main">
+
 #### Concept Image
 
 <br><br>
