@@ -1,9 +1,8 @@
 # Project 1 Content
-
- - [Homepage](#Sunrise)
- - [Proposal](#the-game)
+ - [Story](#story)
  - [Gameplay](#gameplay)
  - [Controls](#controls)
+ - [Esthetics](#esthetics)
  - [Developer](#developer)
  
 # Sunrise
